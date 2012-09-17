@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WATCH">
+</Property><Property Name="Файл решения" Value="C:\Users\Sacret\Documents\Visual Studio 2010\Projects\WATCH\WATCH.sln">
+</Property><Property Name="Date" Value="24 августа 2011 г.">
+</Property><Property Name="Time" Value="21:16:39">
+</Property></Properties><Event ErrorLevel="0" Project="WATCH" Source="WATCH.csproj" Description="Успешно создана резервная копия файла проекта: C:\Users\Sacret\Documents\Visual Studio 2010\Projects\WATCH\Backup\WATCH.csproj">
+</Event><Event ErrorLevel="0" Project="WATCH" Source="Form1.cs" Description="Успешно создана резервная копия файла C:\Users\Sacret\Documents\Visual Studio 2010\Projects\WATCH\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="WATCH" Source="Form1.Designer.cs" Description="Успешно создана резервная копия файла C:\Users\Sacret\Documents\Visual Studio 2010\Projects\WATCH\Backup\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WATCH" Source="Form2.cs" Description="Успешно создана резервная копия файла C:\Users\Sacret\Documents\Visual Studio 2010\Projects\WATCH\Backup\Form2.cs">
+</Event><Event ErrorLevel="0" Project="WATCH" Source="Form2.Designer.cs" Description="Успешно создана резервная копия файла C:\Users\Sacret\Documents\Visual Studio 2010\Projects\WATCH\Backup\Form2.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WATCH" Source="Program.cs" Description="Успешно создана резервная копия файла C:\Users\Sacret\Documents\Visual Studio 2010\Projects\WATCH\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="WATCH" Source="Properties\AssemblyInfo.cs" Description="Успешно создана резервная копия файла C:\Users\Sacret\Documents\Visual Studio 2010\Projects\WATCH\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="WATCH" Source="Properties\Resources.Designer.cs" Description="Успешно создана резервная копия файла C:\Users\Sacret\Documents\Visual Studio 2010\Projects\WATCH\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WATCH" Source="Settings.cs" Description="Успешно создана резервная копия файла C:\Users\Sacret\Documents\Visual Studio 2010\Projects\WATCH\Backup\Settings.cs">
+</Event><Event ErrorLevel="0" Project="WATCH" Source="Properties\Settings.Designer.cs" Description="Успешно создана резервная копия файла C:\Users\Sacret\Documents\Visual Studio 2010\Projects\WATCH\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WATCH" Source="app.config" Description="Успешно создана резервная копия файла C:\Users\Sacret\Documents\Visual Studio 2010\Projects\WATCH\Backup\app.config">
+</Event><Event ErrorLevel="0" Project="WATCH" Source="app.manifest" Description="Успешно создана резервная копия файла C:\Users\Sacret\Documents\Visual Studio 2010\Projects\WATCH\Backup\app.manifest">
+</Event><Event ErrorLevel="0" Project="WATCH" Source="Properties\Settings.settings" Description="Успешно создана резервная копия файла C:\Users\Sacret\Documents\Visual Studio 2010\Projects\WATCH\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="WATCH" Source="clock.ico" Description="Успешно создана резервная копия файла C:\Users\Sacret\Documents\Visual Studio 2010\Projects\WATCH\Backup\clock.ico">
+</Event><Event ErrorLevel="0" Project="WATCH" Source="Form1.resx" Description="Успешно создана резервная копия файла C:\Users\Sacret\Documents\Visual Studio 2010\Projects\WATCH\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="WATCH" Source="Form2.resx" Description="Успешно создана резервная копия файла C:\Users\Sacret\Documents\Visual Studio 2010\Projects\WATCH\Backup\Form2.resx">
+</Event><Event ErrorLevel="0" Project="WATCH" Source="Properties\Resources.resx" Description="Успешно создана резервная копия файла C:\Users\Sacret\Documents\Visual Studio 2010\Projects\WATCH\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="WATCH" Source="WATCH.csproj" Description="Проект успешно преобразован">
+</Event><Event ErrorLevel="3" Project="WATCH" Source="WATCH.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WATCH" Source="WATCH.csproj" Description="Сканирование завершено: обновление для файлов проекта не требуется.">
+</Event></UpgradeLog>

@@ -1,0 +1,47 @@
+E:\C# & Delphi\WATCH\WATCH\bin\Debug\WATCH.exe
+E:\C# & Delphi\WATCH\WATCH\bin\Debug\WATCH.pdb
+E:\C# & Delphi\WATCH\WATCH\obj\Debug\ResolveAssemblyReference.cache
+E:\C# & Delphi\WATCH\WATCH\obj\Debug\WATCH.Form1.resources
+E:\C# & Delphi\WATCH\WATCH\obj\Debug\WATCH.Properties.Resources.resources
+E:\C# & Delphi\WATCH\WATCH\obj\Debug\WATCH.csproj.GenerateResource.Cache
+E:\C# & Delphi\WATCH\WATCH\obj\Debug\WATCH.exe
+E:\C# & Delphi\WATCH\WATCH\obj\Debug\WATCH.pdb
+E:\C# & Delphi\WATCH\WATCH\bin\Debug\WATCH.exe.config
+E:\C# & Delphi\WATCH\WATCH\obj\Debug\WATCH.Form2.resources
+C:\Users\Sacret\Documents\Visual Studio 2010\Projects\WATCH\bin\Debug\WATCH.exe.config
+C:\Users\Sacret\Documents\Visual Studio 2010\Projects\WATCH\obj\Debug\WATCH.exe
+C:\Users\Sacret\Documents\Visual Studio 2010\Projects\WATCH\obj\Debug\WATCH.pdb
+C:\Users\Sacret\Documents\Visual Studio 2010\Projects\WATCH\bin\Debug\WATCH.exe
+C:\Users\Sacret\Documents\Visual Studio 2010\Projects\WATCH\bin\Debug\WATCH.pdb
+C:\Users\Sacret\Documents\Visual Studio 2010\Projects\WATCH\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sacret\Documents\Visual Studio 2010\Projects\WATCH\obj\Debug\WATCH.Form1.resources
+C:\Users\Sacret\Documents\Visual Studio 2010\Projects\WATCH\obj\Debug\WATCH.Form2.resources
+C:\Users\Sacret\Documents\Visual Studio 2010\Projects\WATCH\obj\Debug\WATCH.Properties.Resources.resources
+C:\Users\Sacret\Documents\Visual Studio 2010\Projects\WATCH\obj\Debug\ResGen.read.1.tlog
+C:\Users\Sacret\Documents\Visual Studio 2010\Projects\WATCH\obj\Debug\ResGen.write.1.tlog
+E:\Programming\WATCH\bin\Debug\WATCH.exe.config
+E:\Programming\WATCH\obj\Debug\WATCH.exe
+E:\Programming\WATCH\obj\Debug\WATCH.pdb
+E:\Programming\WATCH\obj\Debug\ResolveAssemblyReference.cache
+E:\Programming\WATCH\obj\Debug\WATCH.Form1.resources
+E:\Programming\WATCH\obj\Debug\WATCH.Form2.resources
+E:\Programming\WATCH\obj\Debug\WATCH.Properties.Resources.resources
+E:\Programming\WATCH\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Programming\WATCH\obj\Debug\ResGen.read.1.tlog
+E:\Programming\WATCH\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Programming\WATCH\obj\Debug\ResGen.write.1.tlog
+E:\Programming\WATCH\bin\Debug\WATCH.exe
+E:\Programming\WATCH\bin\Debug\WATCH.pdb
+N:\УЧЁБА =)))\Мои документы\C# & Delphi\Программки^^\19 - [C#] Small clock\WATCH\bin\Debug\WATCH.exe.config
+N:\УЧЁБА =)))\Мои документы\C# & Delphi\Программки^^\19 - [C#] Small clock\WATCH\obj\Debug\WATCH.exe
+N:\УЧЁБА =)))\Мои документы\C# & Delphi\Программки^^\19 - [C#] Small clock\WATCH\obj\Debug\WATCH.pdb
+N:\УЧЁБА =)))\Мои документы\C# & Delphi\Программки^^\19 - [C#] Small clock\WATCH\bin\Debug\WATCH.exe
+N:\УЧЁБА =)))\Мои документы\C# & Delphi\Программки^^\19 - [C#] Small clock\WATCH\bin\Debug\WATCH.pdb
+N:\УЧЁБА =)))\Мои документы\C# & Delphi\Программки^^\19 - [C#] Small clock\WATCH\obj\Debug\ResolveAssemblyReference.cache
+N:\УЧЁБА =)))\Мои документы\C# & Delphi\Программки^^\19 - [C#] Small clock\WATCH\obj\Debug\WATCH.Form1.resources
+N:\УЧЁБА =)))\Мои документы\C# & Delphi\Программки^^\19 - [C#] Small clock\WATCH\obj\Debug\WATCH.Form2.resources
+N:\УЧЁБА =)))\Мои документы\C# & Delphi\Программки^^\19 - [C#] Small clock\WATCH\obj\Debug\WATCH.Properties.Resources.resources
+N:\УЧЁБА =)))\Мои документы\C# & Delphi\Программки^^\19 - [C#] Small clock\WATCH\obj\Debug\GenerateResource-ResGen.read.1.tlog
+N:\УЧЁБА =)))\Мои документы\C# & Delphi\Программки^^\19 - [C#] Small clock\WATCH\obj\Debug\ResGen.read.1.tlog
+N:\УЧЁБА =)))\Мои документы\C# & Delphi\Программки^^\19 - [C#] Small clock\WATCH\obj\Debug\GenerateResource-ResGen.write.1.tlog
+N:\УЧЁБА =)))\Мои документы\C# & Delphi\Программки^^\19 - [C#] Small clock\WATCH\obj\Debug\ResGen.write.1.tlog
